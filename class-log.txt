@@ -1,0 +1,18 @@
+# Alcheringa Class Log
+
+## Team Roster
+- Priya
+- Rohan
+
+## Config Flags
+dark_mode=false
+notifications=true
+
+## Milestone Log
+- Day 1: Environment setup complete
+
+## Fun Fact of the Week
+- Git was created by Linus Torvalds in 2005.
+
+## This Week's Vibe Check
+Status: Grinding through Week 1 🚀
