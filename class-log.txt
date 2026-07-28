@@ -4,9 +4,11 @@
 - Priya
 - Rohan
 - Prachet
+- Swayam
+- Meera
 
 ## Config Flags
-dark_mode=off
+dark_mode=true
 notifications=true
 
 ## Milestone Log
@@ -15,7 +17,8 @@ notifications=true
 
 ## Fun Fact of the Week
 - Git was created by Linus Torvalds in 2005.
-- GitHub was founded in 2008, 3 years after Git itself.
+- GitHub was founded in 2008, three years after Git itself.
+- The "master" branch name is now commonly renamed to "main" industry-wide.
 
 ## This Week's Vibe Check
-Status: Grinding through Week 1 🚀
+Status: Halfway through Week 1, still standing 💪
