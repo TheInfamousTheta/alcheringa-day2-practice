@@ -3,18 +3,21 @@
 ## Team Roster
 - Priya
 - Rohan
+- Meera
 - Vikramjit
 
 ## Config Flags
-dark_mode=off
+dark_mode=true
 notifications=true
 
 ## Milestone Log
-- Day 2: Branching Workshop Begins
+- Day 1: Environment setup complete
+- Day 2: Branching workshop begins
 
 ## Fun Fact of the Week
 - Git was created by Linus Torvalds in 2005.
 - GitHub was founded in 2008, three years after Git itself.
+- The "master" branch name is now commonly renamed to "main" industry-wide.
 
 ## This Week's Vibe Check
-Status: Grinding through Week 1 🚀
+Status: Halfway through Week 1, still standing 💪
